@@ -1,1 +1,2 @@
 # Project
+Price panel project
